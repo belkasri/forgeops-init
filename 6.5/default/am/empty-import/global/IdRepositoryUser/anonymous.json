@@ -1,0 +1,26 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "amsterVersion" : "6.5.0.1",
+    "entityType" : "IdRepositoryUser",
+    "entityId" : "anonymous",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "anonymous",
+    "userPassword" : null,
+    "userPassword-encrypted" : "AAAAA0FFUwIQHLBUWu4K+FMlY27kEyznRfKh/vGUjbuRuBc9OGYDKhj4QCzdDazD2SMjZ2mSSYBPWE6T0/IdlXQ=",
+    "givenName" : "anonymous",
+    "roles" : [ ],
+    "dn" : "uid=anonymous,ou=people,",
+    "cn" : "anonymous",
+    "inetUserStatus" : "Active",
+    "sn" : "anonymous",
+    "iplanet-am-user-auth-config" : "[Empty]",
+    "_type" : {
+      "_id" : "user",
+      "name" : "User",
+      "collection" : true
+    }
+  }
+}

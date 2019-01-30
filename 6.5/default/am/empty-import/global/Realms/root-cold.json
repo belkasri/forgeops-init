@@ -1,0 +1,16 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "amsterVersion" : "6.5.0.1",
+    "entityType" : "Realms",
+    "entityId" : "L2NvbGQ",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "L2NvbGQ",
+    "parentPath" : "/",
+    "active" : true,
+    "name" : "cold",
+    "aliases" : [ ]
+  }
+}
