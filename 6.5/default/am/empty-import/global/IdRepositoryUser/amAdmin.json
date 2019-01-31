@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : null,
-    "amsterVersion" : "6.5.0",
+    "amsterVersion" : "6.5.0.1",
     "entityType" : "IdRepositoryUser",
     "entityId" : "amAdmin",
     "pathParams" : { }
@@ -9,7 +9,7 @@
   "data" : {
     "_id" : "amAdmin",
     "userPassword" : null,
-    "userPassword-encrypted" : "AAAAA0FFUwIQhFspRPelh8BQswvaJRxzGlDC00wKCg5gWtJ0g/Xeps5GV1zdJvvy0+2LSgKfaklKWWxPFv+e5UGfQotk+C50q8jfU8xeauEyoUEvxP/vPbKtFwGLkuPxpZplXnTUO1lglSlyr+UQ/72nJzfzwtCswCz0qJeoR/TrXk0zyYqmQvXEFkVHo/+Ikf2mjwPp4A132Ymx0tJ1P+U=",
+    "userPassword-encrypted" : "AAAAA0FFUwIQ3y627zSY6jGxKfPk5Zxrm6JFz0g8oijgBEoREuk+gAIGcwHZZanucmb9HR2DJXdXwgZn11TcgSjAOfehlwp37sPzgjRHTHEFzgqAvFk4rPXQEneFvLy42vozeNp46NDSx6KPM4n0g0g+NmlzgHvljOdXrX+IJNdU4DKgAtTbBU/9KB7rYW4HSvb8MYaUWsBYvyI0ngIVi18=",
     "roles" : [ ],
     "givenName" : "amAdmin",
     "dn" : "uid=amAdmin,ou=people,",

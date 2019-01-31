@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/vipin",
-    "amsterVersion" : "6.5.0",
+    "amsterVersion" : "6.5.0.1",
     "entityType" : "Authentication",
     "entityId" : "Authentication",
     "pathParams" : { }
@@ -34,7 +34,7 @@
       "moduleBasedAuthEnabled" : true,
       "zeroPageLoginAllowedWithoutReferrer" : true,
       "sharedSecret" : null,
-      "sharedSecret-encrypted" : "AAAAA0FFUwIQqJ20CwobdlFot9N4K+VXosAWdZDHyzTdkLcQRY3i1JH0innIKPd+Ty/uiG4K+ebzhvl32pmEzkX291/++i0wwQPzwBYWZ3G3",
+      "sharedSecret-encrypted" : "AAAAA0FFUwIQLYzsDNwcBH7cHijRxfWiKbSSJO/0NzDASjn6C2vl5Xtv3yA8lOA2YaSV2wNzdu77dyUoP/eR4sn00ZXoQk2WwVx5cMey0Kok",
       "keyAlias" : "test",
       "zeroPageLoginEnabled" : false,
       "zeroPageLoginReferrerWhiteList" : [ ]

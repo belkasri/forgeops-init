@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/somenew",
-    "amsterVersion" : "6.5.0",
+    "amsterVersion" : "6.5.0.1",
     "entityType" : "Authentication",
     "entityId" : "Authentication",
     "pathParams" : { }
@@ -34,7 +34,7 @@
       "moduleBasedAuthEnabled" : true,
       "zeroPageLoginAllowedWithoutReferrer" : true,
       "sharedSecret" : null,
-      "sharedSecret-encrypted" : "AAAAA0FFUwIQuiumy/XZ/OZFhx65bNBxfj7WAjATLhULIdORLAwjMklgPFizuajUUOwyGSod0xQJb+pRN8PnSs5HZOGifFvC89pz9bJDaHuW",
+      "sharedSecret-encrypted" : "AAAAA0FFUwIQ6S/0ypSzzXwp5o2yko1eM+u53BXuyyeS2lDClN3ojQYp7wkQ2/zRTubr78qQ87T0HbXkDvUCxkxmNxSnEQuypLJgdeFxupKk",
       "keyAlias" : "test",
       "zeroPageLoginEnabled" : false,
       "zeroPageLoginReferrerWhiteList" : [ ]
