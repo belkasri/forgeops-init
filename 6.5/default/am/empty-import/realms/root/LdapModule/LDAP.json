@@ -10,7 +10,7 @@
     "_id" : "LDAP",
     "authenticationLevel" : 0,
     "userBindPassword" : null,
-    "userBindPassword-encrypted" : "AAAAA0FFUwIQGTSH/l0Ds6/GVka4CMvhRQalDzmzBS2btL6JhheN+4B6KzSNwirm7g==",
+    "userBindPassword-encrypted" : "AAAAA0FFUwIQs/RPHL2UCUVzwp+8dLLENlu4knDgrRpCZGU/bLgev88HkuA+f4rNSA==",
     "searchScope" : "SUBTREE",
     "returnUserDN" : true,
     "profileAttributeMappings" : [ ],
