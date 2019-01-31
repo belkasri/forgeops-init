@@ -9,7 +9,7 @@
   "data" : {
     "_id" : "prometheus",
     "password" : null,
-    "password-encrypted" : "AAAAA0FFUwIQzGdw9bqtQDdEbUUVpadtBD00PwlLGh08E+WQsqwcDS7JEUmjkPfUmA==",
+    "password-encrypted" : "AAAAA0FFUwIQJnCU2vK8KQy3PjMZVGKX577gDaPuxf5XdlxG9mpuOthaOd/nzx3VxQ==",
     "authenticationType" : "BASIC",
     "enabled" : false,
     "username" : "prometheus",
