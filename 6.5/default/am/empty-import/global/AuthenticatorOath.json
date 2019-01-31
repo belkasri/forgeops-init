@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : null,
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "AuthenticatorOath",
     "entityId" : "AuthenticatorOath",
     "pathParams" : { }
@@ -14,7 +14,7 @@
       "authenticatorOATHDeviceSettingsEncryptionKeystore" : "/home/forgerock/openam/keystore.jks",
       "authenticatorOATHDeviceSettingsEncryptionKeystoreType" : "JKS",
       "authenticatorOATHDeviceSettingsEncryptionKeystorePassword" : null,
-      "authenticatorOATHDeviceSettingsEncryptionKeystorePassword-encrypted" : "AAAAA0FFUwIQM/OtdAjOdfabM4ACgpxBBCtW5U3FHODd84HYIQSXoZRE95fFNw4Dfg==",
+      "authenticatorOATHDeviceSettingsEncryptionKeystorePassword-encrypted" : "AAAAA0FFUwIQ0AGCOvagH4soA7chBC7HOgFQDGCsWYXswuAsLbcvi8Jg7rK7jzEtgg==",
       "authenticatorOATHSkippableName" : "oath2faEnabled"
     },
     "_type" : {

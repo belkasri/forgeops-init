@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : null,
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "PrometheusReporter",
     "entityId" : "prometheus",
     "pathParams" : { }
@@ -9,7 +9,7 @@
   "data" : {
     "_id" : "prometheus",
     "password" : null,
-    "password-encrypted" : "AAAAA0FFUwIQq6VcPkU28H45oKgj7emOq8N+LvxDD2EFhdtCDgUramGoEWFdgyxSIg==",
+    "password-encrypted" : "AAAAA0FFUwIQm6UNo4MrpY5YAeP22UXUTcFTxmnOR+AK2TsqHKbid0qtE9qxxuAonA==",
     "authenticationType" : "BASIC",
     "enabled" : false,
     "username" : "prometheus",

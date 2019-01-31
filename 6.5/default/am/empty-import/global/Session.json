@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : null,
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "Session",
     "entityId" : "Session",
     "pathParams" : { }
@@ -10,7 +10,7 @@
     "_id" : "",
     "stateless" : {
       "statelessSigningHmacSecret" : null,
-      "statelessSigningHmacSecret-encrypted" : "AAAAA0FFUwIQizjIwbMJa0Ma9xd4SvUxO7xnMPmnCxlZnRvgjf5xvdr2gMIzX/JmXFlObGoY63jYMXbN8b4vn9OPa2WJrhPVQBJO/bK6OX9S",
+      "statelessSigningHmacSecret-encrypted" : "AAAAA0FFUwIQu1B5KdXRQqsAZCpVpXzi8MuuTQK9EYwRdDfeDnIN77K3RA6O1Ghgl1t2skMWITpkxMu4N3bX0LZoGkpf6NpI/YlLNpbP12Qr",
       "openam-session-stateless-blacklist-poll-interval" : 60,
       "statelessSigningType" : "HS256",
       "openam-session-stateless-enable-session-blacklisting" : false,
@@ -19,7 +19,7 @@
       "openam-session-stateless-blacklist-purge-delay" : 1,
       "statelessSigningRsaCertAlias" : "test",
       "statelessEncryptionAesKey" : null,
-      "statelessEncryptionAesKey-encrypted" : "AAAAA0FFUwIQMTWI2w+M6qomyPZCtQPYGgZRn4Wnc/610l6F2Ik3t6m6lp8r4JyPUtUBgi/uskWt7j+ygAy7nhSbrdWS58zMl/7T0KSs1lO5",
+      "statelessEncryptionAesKey-encrypted" : "AAAAA0FFUwIQOInK1F9zYvB1L0DglkIy/FETZc/DrL2fJ46YVVZPErenyY0q9cBrZwcsIVuPg8SG1nIvPts7JqDkPdP3+haujpYfj1yBKfBI",
       "openam-session-stateless-blacklist-cache-size" : 10000,
       "statelessEncryptionRsaCertAlias" : "test"
     },

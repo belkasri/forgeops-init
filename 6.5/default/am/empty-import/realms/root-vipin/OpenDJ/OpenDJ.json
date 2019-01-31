@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/vipin",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "OpenDJ",
     "entityId" : "OpenDJ",
     "pathParams" : { }
@@ -52,7 +52,7 @@
       "sun-idrepo-ldapv3-config-organization_name" : "ou=identities",
       "sun-idrepo-ldapv3-config-connection-mode" : "LDAP",
       "sun-idrepo-ldapv3-config-authpw" : null,
-      "sun-idrepo-ldapv3-config-authpw-encrypted" : "AAAAA0FFUwIQZBTSa+Vi4l7J5iHqlvpvRJY5Y/jPmmht/0Exfdbg94byJoRN4kfkNg=="
+      "sun-idrepo-ldapv3-config-authpw-encrypted" : "AAAAA0FFUwIQpPd/XkTMtxJZryGt6H+9Zb87VbDIxYqRFztPztGTIC1Ua/l5wLUf7Q=="
     },
     "pluginconfig" : {
       "sunIdRepoSupportedOperations" : [ "realm=read,create,edit,delete,service", "group=read,create,edit,delete", "user=read,create,edit,delete,service" ],

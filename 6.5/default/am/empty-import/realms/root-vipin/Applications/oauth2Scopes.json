@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/vipin",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "Applications",
     "entityId" : "oauth2Scopes",
     "pathParams" : { }
@@ -9,21 +9,21 @@
   "data" : {
     "_id" : "oauth2Scopes",
     "displayName" : "Default OAuth2 Scopes Policy Set",
-    "lastModifiedDate" : 1548900979568,
+    "resourceTypeUuids" : [ "d60b7a71-1dc6-44a5-8e48-e4b9d92dee8b" ],
     "description" : "The built-in Application used by the OAuth2 scope authorization process.",
+    "conditions" : [ "LEAuthLevel", "Script", "AuthenticateToService", "SimpleTime", "AMIdentityMembership", "OR", "IPv6", "IPv4", "SessionProperty", "AuthScheme", "AuthLevel", "NOT", "Transaction", "AuthenticateToRealm", "AND", "ResourceEnvIP", "LDAPFilter", "OAuth2Scope", "Session" ],
+    "lastModifiedBy" : "id=amadmin,ou=user,ou=am-config",
+    "creationDate" : 1548885988513,
+    "lastModifiedDate" : 1548903483564,
     "attributeNames" : [ ],
+    "createdBy" : "id=dsameuser,ou=user,ou=am-config",
     "saveIndex" : null,
+    "editable" : true,
     "searchIndex" : null,
+    "subjects" : [ "NOT", "OR", "JwtClaim", "AuthenticatedUsers", "AND", "Identity", "NONE" ],
+    "entitlementCombiner" : "DenyOverride",
     "resourceComparator" : null,
     "applicationType" : "iPlanetAMWebAgentService",
-    "entitlementCombiner" : "DenyOverride",
-    "creationDate" : 1548885988513,
-    "lastModifiedBy" : "id=dsameuser,ou=user,ou=am-config",
-    "createdBy" : "id=dsameuser,ou=user,ou=am-config",
-    "editable" : true,
-    "resourceTypeUuids" : [ "d60b7a71-1dc6-44a5-8e48-e4b9d92dee8b" ],
-    "subjects" : [ "NOT", "OR", "JwtClaim", "AuthenticatedUsers", "AND", "Identity", "NONE" ],
-    "conditions" : [ "LEAuthLevel", "Script", "AuthenticateToService", "SimpleTime", "AMIdentityMembership", "OR", "IPv6", "IPv4", "SessionProperty", "AuthScheme", "AuthLevel", "NOT", "Transaction", "AuthenticateToRealm", "AND", "ResourceEnvIP", "LDAPFilter", "OAuth2Scope", "Session" ],
     "name" : "oauth2Scopes"
   }
 }
