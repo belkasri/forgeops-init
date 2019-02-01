@@ -1,0 +1,16 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "amsterVersion" : "6.5.0.1",
+    "entityType" : "Realms",
+    "entityId" : "L2NhbmFkYQ",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "L2NhbmFkYQ",
+    "parentPath" : "/",
+    "active" : true,
+    "name" : "canada",
+    "aliases" : [ ]
+  }
+}

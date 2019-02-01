@@ -9,7 +9,7 @@
   "data" : {
     "_id" : "anonymous",
     "userPassword" : null,
-    "userPassword-encrypted" : "AAAAA0FFUwIQ2wyt2lvddR80TqNdB7tmlpTWjRIJTbcY3ja6egD9ZToEYSC7O2s9htphoEfIVblRhCcFFFzepQQ=",
+    "userPassword-encrypted" : "AAAAA0FFUwIQGwxrp+0yYJ5coRm3pkxFcjgqsfHcrA9/iRzkoaAhUkQFCHrgcRX9I94FjY3noYCvrztftUCATOM=",
     "roles" : [ ],
     "givenName" : "anonymous",
     "dn" : "uid=anonymous,ou=people,",
