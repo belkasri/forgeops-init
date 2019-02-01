@@ -34,7 +34,7 @@
       "moduleBasedAuthEnabled" : true,
       "zeroPageLoginAllowedWithoutReferrer" : true,
       "sharedSecret" : null,
-      "sharedSecret-encrypted" : "AAAAA0FFUwIQzjg5jTdbYL6T9jAbhDbIQeEsWW/Ayy7pZormOCXhS61gtDBYW5TUSZ3NkvnZdxnsAAOFk90bF6/G549SlzREx5cjS4N/nYXr",
+      "sharedSecret-encrypted" : "AAAAA0FFUwIQvzUE4e7hCvvbGTUZqk49FW/Ijfex8LdohTHqBIRmeWPxcYKfk8zOEqy2+uRJcX+g3f8S4I7fmP7eJLGt2+HFfWN1PWhDoa+c",
       "keyAlias" : "test",
       "zeroPageLoginEnabled" : false,
       "zeroPageLoginReferrerWhiteList" : [ ]

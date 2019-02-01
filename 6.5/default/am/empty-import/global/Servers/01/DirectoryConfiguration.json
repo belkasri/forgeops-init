@@ -15,7 +15,7 @@
       "maxConnectionPool" : 10,
       "bindDn" : "cn=Directory Manager",
       "bindPassword" : null,
-      "bindPassword-encrypted" : "AAAAA0FFUwIQQoe8vHg6dwrMbiuH86ryAa/B6EHEnGiyzKp3gIIl5SrVsu9PbXql2A=="
+      "bindPassword-encrypted" : "AAAAA0FFUwIQS7vPlFXNpsCigy6jzYsxmF/ZWOtK8tSmoSdUfBoG/RYw3+U4YwhOHg=="
     },
     "directoryServers" : [ {
       "hostName" : "configstore-0.configstore",
