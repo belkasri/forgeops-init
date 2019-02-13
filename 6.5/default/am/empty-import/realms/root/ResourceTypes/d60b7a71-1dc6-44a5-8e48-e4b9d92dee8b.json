@@ -18,6 +18,6 @@
     "createdBy" : "id=dsameuser,ou=user,dc=openam,dc=forgerock,dc=org",
     "creationDate" : 1517161800564,
     "lastModifiedBy" : "id=amadmin,ou=user,ou=am-config",
-    "lastModifiedDate" : 1549055080057
+    "lastModifiedDate" : 1549937657562
   }
 }

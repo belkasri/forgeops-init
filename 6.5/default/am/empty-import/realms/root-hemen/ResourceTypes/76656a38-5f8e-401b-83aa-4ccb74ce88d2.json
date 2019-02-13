@@ -22,8 +22,8 @@
       "PATCH" : true
     },
     "createdBy" : "id=dsameuser,ou=user,ou=am-config",
-    "creationDate" : 1549055059566,
+    "creationDate" : 1549937638338,
     "lastModifiedBy" : "id=amadmin,ou=user,ou=am-config",
-    "lastModifiedDate" : 1549055077797
+    "lastModifiedDate" : 1549937655362
   }
 }
