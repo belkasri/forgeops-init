@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/hemen",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "Authentication",
     "entityId" : "Authentication",
     "pathParams" : { }
@@ -34,7 +34,7 @@
       "moduleBasedAuthEnabled" : true,
       "zeroPageLoginAllowedWithoutReferrer" : true,
       "sharedSecret" : null,
-      "sharedSecret-encrypted" : "AAAAA0FFUwIQtI5lm0THLUA4aLFQLKK6gdvmulRUrKWii3NiPY/GOMfxARcA+kFF/XuZi30EEag9zFBnEv2x/k9oR48tIAHLFTVgOh/VYiRL",
+      "sharedSecret-encrypted" : "AAAAA0FFUwIQ0E4YRdSIEPwyfTnhtpBtufbkFEnvO4dVY+27W2KnUweWlXP9AmLa5skQpE9AiQMNBhKl9yrMFeGZLC32V+Gq6eiYhMGNBQ5j",
       "keyAlias" : "test",
       "zeroPageLoginEnabled" : false,
       "zeroPageLoginReferrerWhiteList" : [ ]

@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : null,
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "IdRepositoryUser",
     "entityId" : "anonymous",
     "pathParams" : { }
@@ -9,7 +9,7 @@
   "data" : {
     "_id" : "anonymous",
     "userPassword" : null,
-    "userPassword-encrypted" : "AAAAA0FFUwIQc2Vg/kj4z8G4vwGp07jzHNEcph5pclFON1Irf+jY7BuMxjQ52+sPflkJvPjLKgmNY13EyL07hGQ=",
+    "userPassword-encrypted" : "AAAAA0FFUwIQ7x43GeT0fNxKstN54PjaLGF5DS2F2dN10KzW0mJbCK8aa82PNVmad/bkzoT+AthDsgqFoAiPQrk=",
     "roles" : [ ],
     "givenName" : "anonymous",
     "dn" : "uid=anonymous,ou=people,",

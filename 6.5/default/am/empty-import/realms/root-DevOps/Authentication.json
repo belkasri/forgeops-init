@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/DevOps",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "Authentication",
     "entityId" : "Authentication",
     "pathParams" : { }
@@ -34,7 +34,7 @@
       "moduleBasedAuthEnabled" : true,
       "zeroPageLoginAllowedWithoutReferrer" : true,
       "sharedSecret" : null,
-      "sharedSecret-encrypted" : "AAAAA0FFUwIQehX5TgCQkjGGkWjPGN61aiRSSJcMVijC1NenyxbYTRMm8QtSdghTL9n9SRMlD7TXWhu1BE5U0Q69V/Z3OsVOkptzletEK/m/",
+      "sharedSecret-encrypted" : "AAAAA0FFUwIQDEGqBRXg4cIusLKS3AKQnIg1QF7/bvdAlWXgY306585aLM5XqapmdSfhoZliJeltQYS+LM0JucP6rbA+Mcv64YS75x75UhZK",
       "keyAlias" : "test",
       "zeroPageLoginEnabled" : false,
       "zeroPageLoginReferrerWhiteList" : [ ]

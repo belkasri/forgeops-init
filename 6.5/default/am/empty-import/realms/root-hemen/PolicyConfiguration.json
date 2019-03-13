@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/hemen",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "PolicyConfiguration",
     "entityId" : "PolicyConfiguration",
     "pathParams" : { }
@@ -21,7 +21,7 @@
     "sslEnabled" : false,
     "usersBaseDn" : "ou=identities",
     "bindPassword" : null,
-    "bindPassword-encrypted" : "AAAAA0FFUwIQewmmxis/qqkTIlzPWwl+UGkabZiOqCNMDZJ2eWiReMv6hbThbe8ULA==",
+    "bindPassword-encrypted" : "AAAAA0FFUwIQ11kz2xZcU5rPYgUlyUGHTzawof9hEJgBUtxtXMnFZItbDgSj+dnTAQ==",
     "connectionPoolMaximumSize" : 10,
     "policyHeartbeatTimeUnit" : "SECONDS",
     "maximumSearchResults" : 100,

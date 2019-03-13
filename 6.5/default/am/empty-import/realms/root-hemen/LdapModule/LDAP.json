@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/hemen",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "LdapModule",
     "entityId" : "LDAP",
     "pathParams" : { }
@@ -10,7 +10,7 @@
     "_id" : "LDAP",
     "authenticationLevel" : 0,
     "userBindPassword" : null,
-    "userBindPassword-encrypted" : "AAAAA0FFUwIQZQByTu3X5t6NKd4EuiaUW4La+wstiIxw3agNVBgRbjeznID4NAl0kg==",
+    "userBindPassword-encrypted" : "AAAAA0FFUwIQ1K/eBACi6TTKJtWy3Hc4zkVQLZljYfxXOxbGQ19s6XnNZNiiuG+oBg==",
     "searchScope" : "SUBTREE",
     "returnUserDN" : true,
     "profileAttributeMappings" : [ ],

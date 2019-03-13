@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/hemen",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "ResourceTypes",
     "entityId" : "d60b7a71-1dc6-44a5-8e48-e4b9d92dee8b",
     "pathParams" : { }
@@ -16,8 +16,8 @@
       "GRANT" : true
     },
     "createdBy" : "id=dsameuser,ou=user,ou=am-config",
-    "creationDate" : 1549937638476,
+    "creationDate" : 1552110520782,
     "lastModifiedBy" : "id=amadmin,ou=user,ou=am-config",
-    "lastModifiedDate" : 1549937655316
+    "lastModifiedDate" : 1552110543364
   }
 }

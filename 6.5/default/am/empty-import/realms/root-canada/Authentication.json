@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/canada",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "Authentication",
     "entityId" : "Authentication",
     "pathParams" : { }
@@ -34,7 +34,7 @@
       "moduleBasedAuthEnabled" : true,
       "zeroPageLoginAllowedWithoutReferrer" : true,
       "sharedSecret" : null,
-      "sharedSecret-encrypted" : "AAAAA0FFUwIQKTdM7vqCnexhm1FAMaKTRQ1aoKI0wYNnugwbtWRqlcR95/4tyTcESOoqrFXADDSwWuod85/GfKRkBSAMzuKpgD/qadHh+I0u",
+      "sharedSecret-encrypted" : "AAAAA0FFUwIQ8PcCmNwXxH5bRsfeOHTNwHpcYNwZLVHhm1cJaNQFXsrNoS8oA53WHeplUQYBJ00Cb+gfPwBwqolqIY0LOyb+1XsKQ779kmL+",
       "keyAlias" : "test",
       "zeroPageLoginEnabled" : false,
       "zeroPageLoginReferrerWhiteList" : [ ]

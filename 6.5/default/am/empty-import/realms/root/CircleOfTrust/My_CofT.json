@@ -1,0 +1,19 @@
+{
+  "metadata" : {
+    "realm" : "/",
+    "amsterVersion" : "6.5.0",
+    "entityType" : "CircleOfTrust",
+    "entityId" : "My_CofT",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "My_CofT",
+    "status" : "active",
+    "trustedProviders" : [ "http://login.simeio.qbits.com:8443/sp|saml2" ],
+    "_type" : {
+      "_id" : "circlesoftrust",
+      "name" : "Circle of Trust",
+      "collection" : true
+    }
+  }
+}

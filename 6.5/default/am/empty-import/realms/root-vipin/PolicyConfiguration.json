@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/vipin",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "PolicyConfiguration",
     "entityId" : "PolicyConfiguration",
     "pathParams" : { }
@@ -21,7 +21,7 @@
     "sslEnabled" : false,
     "usersBaseDn" : "ou=identities",
     "bindPassword" : null,
-    "bindPassword-encrypted" : "AAAAA0FFUwIQN1rc4RKieqHKbJUow7c7HtOf4Bv5Q+MJmT5tO6J/mYi8gc88apujWw==",
+    "bindPassword-encrypted" : "AAAAA0FFUwIQKI6NeLxYL8JB/pWJ/L4BILBFDT8uVa94q4PbJyU1rzlxCzQY58agTw==",
     "connectionPoolMaximumSize" : 10,
     "policyHeartbeatTimeUnit" : "SECONDS",
     "maximumSearchResults" : 100,

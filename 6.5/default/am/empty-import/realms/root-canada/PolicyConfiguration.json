@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/canada",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "PolicyConfiguration",
     "entityId" : "PolicyConfiguration",
     "pathParams" : { }
@@ -21,7 +21,7 @@
     "sslEnabled" : false,
     "usersBaseDn" : "ou=identities",
     "bindPassword" : null,
-    "bindPassword-encrypted" : "AAAAA0FFUwIQyHdIo4IpICLfObEinyx6wVVvomSXlGTPx2GIAwGxeTEEROOkhmaH3w==",
+    "bindPassword-encrypted" : "AAAAA0FFUwIQ8bS6BIK2m6Vpzox5SV/2gm4fxFHj5KXC8OchpYiP+u2jE1b1CriHEg==",
     "connectionPoolMaximumSize" : 10,
     "policyHeartbeatTimeUnit" : "SECONDS",
     "maximumSearchResults" : 100,

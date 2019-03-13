@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/somenew",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "HotpModule",
     "entityId" : "HOTP",
     "pathParams" : { }
@@ -19,12 +19,11 @@
     "smsGatewayClass" : "com.sun.identity.authentication.modules.hotp.DefaultSMSGatewayImpl",
     "smtpHostname" : "smtp.gmail.com",
     "authenticationLevel" : 0,
-    "mobileCarrierAttribute" : "",
     "otpValidityDuration" : 5,
     "userProfileTelephoneAttribute" : "telephoneNumber",
     "smtpFromAddress" : "no-reply@openam.org",
     "smtpUserPassword" : null,
-    "smtpUserPassword-encrypted" : "AAAAA0FFUwIQMJTIea71fBNpeRk5pYQYE/oCWEYEpgYcMoPS8ChLHbPYyiQdJVbYvg==",
+    "smtpUserPassword-encrypted" : "AAAAA0FFUwIQRoADyQdL8fxcYv5E6M+O315jCid31Ge+TboR/QqGsR49HfE55384RA==",
     "_type" : {
       "_id" : "hotp",
       "name" : "HOTP",

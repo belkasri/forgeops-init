@@ -1,7 +1,7 @@
 {
   "metadata" : {
     "realm" : "/vipin",
-    "amsterVersion" : "6.5.0.1",
+    "amsterVersion" : "6.5.0",
     "entityType" : "LdapModule",
     "entityId" : "LDAP",
     "pathParams" : { }
@@ -10,7 +10,7 @@
     "_id" : "LDAP",
     "authenticationLevel" : 0,
     "userBindPassword" : null,
-    "userBindPassword-encrypted" : "AAAAA0FFUwIQz+GBJ5vOzMhZbukY3E6+xrJvcDWYXJmZl5QTf/aa09NhJc9XKy0NAA==",
+    "userBindPassword-encrypted" : "AAAAA0FFUwIQRlyP+Pkqw2C4Z4SEDAjAN9wBPz2qatXwfymZ+PMZnONNMRq/OMDMxg==",
     "searchScope" : "SUBTREE",
     "returnUserDN" : true,
     "profileAttributeMappings" : [ ],
